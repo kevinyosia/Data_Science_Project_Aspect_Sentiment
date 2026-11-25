@@ -1,0 +1,13 @@
+app:
+  id: com.mobile.legends
+  lang: id
+  country: id
+
+scraper:
+  batch_size: 200
+  max_reviews: 2000     
+  sleep_seconds: 1.5
+  max_retries: 5
+
+paths:
+  raw_dir: data/raw
